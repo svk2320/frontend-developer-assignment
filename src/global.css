@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Solway:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=STIX+Two+Text:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Trocchi:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --text: "Open Sans";
+  --font-mulish: Mulish;
+  --font-trocchi: Trocchi;
+  --font-stix-two-text: "STIX Two Text";
+  --font-solway: Solway;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --text-size: 14px;
+  --subtitle-2-size: 18px;
+  --font-size-5xl: 24px;
+  --body-2-size: 20px;
+  --title-size: 28px;
+  --font-size-9xs-3: 3.3px;
+  --font-size-7xl-8: 26.8px;
+  --subtitle-1-size: 16px;
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+  --font-size-21xl: 40px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --primary-white: #fff;
+  --primary-dark-gre: #888;
+  --color-gray-100: #7a7a7a;
+  --color-gray-200: #1f1f1f;
+  --text-color: #1a1a1a;
+  --landing-page-black-1: #151515;
+  --color-gray-300: rgba(0, 0, 0, 0);
+  --primary-blue: #1b419b;
+  --primary-color: #002550;
+  --priamry-button: #01244a;
+  --primary-color-5: #f2f4f6;
+  --primary-color-10: #e6eaee;
+  --color-black: #000;
+  --color-dimgray: #666;
+  --primary-color-40: #ccd3dc;
+  --color-lightgray-100: #cfcfcf;
+  --color-lightsteelblue: #c6d4f6;
+  --color-yellow: #faff00;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-311xl: 330px;
+  --gap-xl: 20px;
+  --gap-6xl: 25px;
+  --gap-10xs-1: 2.1px;
+  --gap-31xl: 50px;
+  --gap-sm: 14px;
+  --gap-16xl: 35px;
+  --gap-27xl: 46px;
+  --gap-11xl: 30px;
+  --gap-9xl: 28px;
+  --gap-6xs: 7px;
+  --gap-8xs: 5px;
+  --gap-301xl: 320px;
+  --gap-10xl: 29px;
+  --gap-lg: 18px;
+  --gap-7xs: 6px;
+
+  /* Paddings */
+  --padding-7xs: 6px;
+  --padding-xs: 12px;
+  --padding-13xl: 32px;
+  --padding-sm: 14px;
+  --padding-193xl: 212px;
+  --padding-5xl: 24px;
+  --padding-16xl: 35px;
+  --padding-15xl: 34px;
+  --padding-lg: 18px;
+  --padding-3xs: 10px;
+  --padding-21xl: 40px;
+  --padding-xl: 20px;
+  --padding-lgi: 19px;
+  --padding-65xl-5: 84.5px;
+  --padding-3xl: 22px;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-6xs: 7px;
+  --br-11xs: 2px;
+  --br-5xs: 8px;
+
+  /* Effects */
+  --button: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
