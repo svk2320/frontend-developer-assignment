@@ -98,14 +98,14 @@ const NavigationBar = () => {
                     <div className={styles.title1}>Privacy Policy</div>
                     <div className={styles.instanceItem} />
                   </div>
-                  {/* <div className={styles.titleParent2}>
+                  <div className={styles.titleParent2}>
                     <div className={styles.title1}>FAQs</div>
                     <div className={styles.instanceItem} />
                   </div>
                   <div className={styles.titleParent2}>
                     <div className={styles.title1}>Smallcase</div>
                     <div className={styles.instanceItem} />
-                  </div> */}
+                  </div>
                 </div>
                 <div className={styles.instanceParent1}>
                   <div className={styles.titleParent2}>
@@ -156,9 +156,10 @@ const NavigationBar = () => {
                       <div className={styles.instanceItem} />
                     </div>
                   </div>
-                </div> */}
+                </div> 
               </div>
             </div>
+            
             <button className={styles.registerNowWrapper}>
               <div className={styles.contactNow}>Register Now</div>
             </button>

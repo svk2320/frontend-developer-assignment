@@ -3,8 +3,8 @@ import styles from '../../pages/Home.module.css';
 
 const ContactUs = () => {
   return (
-    <>
-             <div className={styles.groupParent10}>
+    <div>
+      <div className={styles.groupParent10}>
         <div className={styles.groupParent11}>
           <div className={styles.groupParent11}>
             <div className={styles.groupChild9} />
@@ -92,7 +92,7 @@ const ContactUs = () => {
           <div className={styles.branchName}>Mobile Number</div>
         </div>
       </div>
-    </>
+    </div>
   )
 }
 

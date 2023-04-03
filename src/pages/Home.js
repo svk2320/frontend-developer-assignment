@@ -11,11 +11,8 @@ import styles from "./Home.module.css";
 const Home = () => {
   return (
     <div className={styles.home}>
-      <div className={styles.image29Wrapper}>
-        <div className={styles.image29} />
-      </div>
-      <Banner />
       <NavigationBar />
+      <Banner />
       <Offerings />
       <Members />
       <Blogs />
